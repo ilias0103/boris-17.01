@@ -1,0 +1,9 @@
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.AssemblyReference.cache
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.Properties.Resources.resources
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.GenerateResource.cache
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.CoreCompileInputs.cache
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\bin\Debug\TextEdit.exe.config
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\bin\Debug\TextEdit.exe
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\bin\Debug\TextEdit.pdb
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.exe
+C:\Users\Zxzee\source\repos\TextEdit\TextEdit\obj\Debug\TextEdit.pdb

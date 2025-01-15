@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.exe
+C:\Users\User\source\repos\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.deps.json
+C:\Users\User\source\repos\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.runtimeconfig.json
+C:\Users\User\source\repos\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.dll
+C:\Users\User\source\repos\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.ToDoList.resources
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.dll
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\refint\ToDoList.dll
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\User\source\repos\ToDoList\ToDoList\obj\Debug\net8.0-windows\ref\ToDoList.dll
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.exe
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.deps.json
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.dll
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\bin\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.ToDoList.resources
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.dll
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\refint\ToDoList.dll
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.pdb
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ToDoList.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\ToDoList\ToDoList\obj\Debug\net8.0-windows\ref\ToDoList.dll
